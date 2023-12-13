@@ -20,4 +20,4 @@ It is a self-contained file, every result and experiment can be replicated by ru
 
 
 # Conclusion
-Contrary to expectations, our results indicated that these strategies reduced the effectiveness of information retrieval compared to the baseline. Thus suggests that the unique nature of medical literature necessitates more contextually nuanced approaches. The findings highlight the complexities of query expansion in the medical domain and point towards the need for more specialized techniques in information retrieval.
+Contrary to expectations, our results indicated that these strategies reduced the effectiveness of information retrieval compared to the baseline. This suggests that the unique nature of medical literature necessitates more contextually nuanced approaches. The findings highlight the complexities of query expansion in the medical domain and point towards the need for more specialized techniques in information retrieval.
