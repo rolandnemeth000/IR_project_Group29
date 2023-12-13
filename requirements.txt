@@ -1,0 +1,12 @@
+ir_datasets
+rank_bm25
+nltk
+pytrec_eval
+pandas
+numpy
+ipython
+jupyter
+matplotlib
+scipy
+gensim
+seaborn
